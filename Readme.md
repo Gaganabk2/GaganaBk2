@@ -28,9 +28,9 @@ I’m on a relentless pursuit to dominate AI, machine learning, and software arc
 
 ## Connect & Collaborate
 - [GitHub](https://github.com/Gaganapbk2)
-- [LinkedIn](www.linkedin.com/in/gagana-bk-372579229) *(Insert your LinkedIn URL)*
-- [Email](mailto:gaganabk97@gmail.com) *(Replace with your email)*
-- [Portfolio](https://portfolio.gaganapbk2.com) *(Add your portfolio URL)*
+- [LinkedIn](www.linkedin.com/in/gagana-bk-372579229) 
+- [Email](mailto:gaganabk97@gmail.com) 
+- [Portfolio](https://portfolio.gaganapbk2.com) 
 
 ## Vision & Pledge
 - Eager to lead transformative AI/ML and blockchain collaborations.
