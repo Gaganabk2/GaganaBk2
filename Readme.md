@@ -1,4 +1,4 @@
-# Gaganapbk2 - AI Luminary & Software Visionary
+# Gaganabk2 - AI Luminary & Software Visionary
 
 Enter the cutting-edge universe of Gaganapbk2, where I, an aspiring software developer and AI luminary, harness Python, advanced mathematics, and machine learning to architect paradigm-shifting solutions that redefine technological landscapes.
 
