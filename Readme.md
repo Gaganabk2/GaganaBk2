@@ -1,40 +1,69 @@
-# Gaganabk2 - AI Luminary & Software Visionary
+# Hi, I’m Gagana B K 
 
-Enter the cutting-edge universe of Gaganapbk2, where I, an aspiring software developer and AI luminary, harness Python, advanced mathematics, and machine learning to architect paradigm-shifting solutions that redefine technological landscapes.
+*Aspiring QA / Test Engineer | Manual & Automation Testing Enthusiast | CS Graduate*
 
-## Who I Am
-- **Pronouns**: She/Her
-- **Domain**: Pinnacle Python Development, AI Innovation Leadership, Machine Learning Pioneering
-- **Mission**: To forge revolutionary systems that anticipate and shape humanity’s future
+---
 
-## Unparalleled Skillset
-- **Languages**: Python, SQL, R, Julia, C++
-- **Mathematical Mastery**: Linear Algebra, Multivariable Calculus, Probability Theory, Stochastic Processes, Differential Equations, Topology
-- **AI & ML Expertise**: Supervised/Unsupervised/Reinforcement Learning, Deep Neural Networks, GANs, Transfer Learning, Meta-Learning, AutoML
-- **Data Science Prowess**: Advanced Data Modeling, Feature Optimization, Predictive Analytics, Big Data Pipelines, Real-Time Data Streams
-- **Tech Ecosystem**: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Keras, Hugging Face, OpenCV, Dask, Apache Spark
-- **Optimization Mastery**: Algorithmic Efficiency, Parallel Computing, Heuristic Search, Genetic Algorithms
-- **Communication Excellence**: Precision Documentation, Cross-Functional Leadership, Thought Leadership
-- **Cutting-Edge Skills**: Computer Vision, NLP (Transformers, BERT), Time Series Forecasting, Graph Neural Networks, Quantum Computing, Multi-Cloud (AWS, Azure, GCP), RESTful API Design, Blockchain Integration, Edge AI
+### About Me  
+I’m a Computer Science graduate passionate about software quality and testing. I focus on building strong expertise in *manual testing, automation basics, and debugging skills* to contribute effectively in real-world QA projects.
 
-## Showcase Projects
-- **[Osteoporosis-Risk-Prediction](https://github.com/Gaganapbk2/Osteoporosis-Risk-Prediction)**  
+---
+
+### Skills & Tools  
+
+*Manual Testing:
+- SDLC & STLC understanding  
+- Test case design and execution  
+- Bug reporting & defect tracking  
+- Types of testing: Functional (Smoke, Sanity, Regression, UAT, Integration, System) and Non-functional (Performance, Load, Stress, Security)  
+
+*Automation & Scripting:
+- Python basics: loops, arrays, strings, functions  
+- Selenium WebDriver basics for automation scripts  
+
+*Tools & Technologies: 
+- Bug Tracking: Jira, Bugzilla  
+- Database: SQLite, MySQL (basic queries)  
+- Version Control: Git & GitHub  
+- IDE: VS Code, PyCharm  
+
+*Other Skills:
+- Debugging small code snippets  
+- Writing detailed test cases  
+- Prioritization of bugs (Severity vs Priority)  
+
+---
+
+### Key Projects  
+
+*[Student Feedback System]
+- Web application to collect and manage student feedback  
+- Created and executed *manual test cases* for all modules  
+- Logged bugs in *Jira/Bugzilla* and verified fixes  
+- Implemented simple *automation scripts* for form validation  
+
+*[Automation Scripts] (Python/Selenium) 
+- Scripts for login validation, form submissions, and basic UI testing
+  
+ *[Osteoporosis-Risk-Prediction]
+  - (https://github.com/Gaganapbk2/Osteoporosis-Risk-Prediction)**  
   A groundbreaking predictive model integrating multi-modal data, AI-driven diagnostics, and precision health interventions. (Jupyter Notebook)
-- **[AI-Chatbot-for-University-Registration-Using-IBM-Watson-Machine-Learning](https://github.com/Gaganapbk2/AI-Chatbot-for-University-Registration-Using-IBM-Watson-Machine-Learning)**  
+
+ *[AI-Chatbot-for-University-Registration-Using-IBM-Watson-Machine-Learning]
+- (https://github.com/Gaganapbk2/AI-Chatbot-for-University-Registration-Using-IBM-Watson-Machine-Learning)**  
   An intelligent, scalable chatbot redefining registration with IBM Watson, featuring natural language understanding and adaptive learning. (Python)
 
-## Evolutionary Path
-I’m on a relentless pursuit to dominate AI, machine learning, and software architecture. Future frontiers include Quantum Machine Learning, Ethical AI Frameworks, Autonomous Systems, and AI-Driven Sustainability Solutions. Let’s co-create the next era!
+---
 
-## Connect & Collaborate
+### Career Focus  
+- Manual Testing / QA Analyst role in IT companies  
+- Automation testing using Python & Selenium  
+- End-to-end software testing and defect management  
+
+---
+
+### Contact  
 - [GitHub](https://github.com/Gaganapbk2)
 - [LinkedIn](www.linkedin.com/in/gagana-bk-372579229) 
 - [Email](mailto:gaganabk97@gmail.com) 
-- [Portfolio](https://portfolio.gaganapbk2.com) 
-
-## Vision & Pledge
-- Eager to lead transformative AI/ML and blockchain collaborations.
-- Committed to crafting robust, scalable, and elegantly documented codebases with a focus on sustainability.
-- Aspiring to pioneer AI Ethics, Decentralized AI, Next-Gen Computing, and Global Impact Initiatives.
-
----
+- [Portfolio](https://portfolio.gaganapbk2.com)
