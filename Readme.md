@@ -1,36 +1,33 @@
-# Hi, I’m Gagana B K 
+# Hi, I’m Gagana B Kundar
 
-*Aspiring QA / Test Engineer | Manual & Automation Testing Enthusiast | CS Graduate*
+*Junior SOC Analyst | Cybersecurity | Networking | Linux | AWS | IAM | Python | SQL*
 
 ---
 
 ### About Me  
-I’m a Computer Science graduate passionate about software quality and testing. I focus on building strong expertise in *manual testing, automation basics, and debugging skills* to contribute effectively in real-world QA projects.
+I’m a Computer Science graduate focused on Networking and Cybersecurity, with a strong interest in Security Operations. I focus on building strong expertise in networking fundamentals, security monitoring, threat detection, and incident investigation to contribute effectively in real-world SOC environments. I’m seeking opportunities as a Junior SOC Analyst to apply my technical knowledge and grow within a security operations team.
 
 ---
 
 ### Skills & Tools  
 
-*Manual Testing:
-- SDLC & STLC understanding  
-- Test case design and execution  
-- Bug reporting & defect tracking  
-- Types of testing: Functional (Smoke, Sanity, Regression, UAT, Integration, System) and Non-functional (Performance, Load, Stress, Security)  
+*Networking:
+-TCP/IP · OSI Model · IPv4 · Subnetting · DNS · DHCP · ARP · HTTP/HTTPS · SSH · VPN · Firewalls · Wireshark
 
-*Automation & Scripting:
-- Python basics: loops, arrays, strings, functions  
-- Selenium WebDriver basics for automation scripts  
+*Operating Systems:
+-Linux · Windows · Windows Event Logs · Linux Logs · PowerShell · Command Line
 
-*Tools & Technologies: 
-- Bug Tracking: Jira, Bugzilla  
-- Database: SQLite, MySQL (basic queries)  
-- Version Control: Git & GitHub  
-- IDE: VS Code, PyCharm  
+*SOC & Security:
+-Security Monitoring · Log Analysis · Alert Triage · Threat Detection · IOC Analysis · Phishing Investigation · Incident Response · MITRE ATT&CK
 
-*Other Skills:
-- Debugging small code snippets  
-- Writing detailed test cases  
-- Prioritization of bugs (Severity vs Priority)  
+*SIEM & Tools:
+-Microsoft Sentinel · Splunk · KQL · SPL · Sysmon · VirusTotal · AbuseIPDB
+
+*Cloud & Programming:
+-AWS · IAM · Python · SQL · Git · GitHub
+
+*Core Strengths:
+-Analytical Thinking · Problem Solving · Troubleshooting · Attention to Detail · Documentation
 
 ---
 
@@ -55,15 +52,18 @@ I’m a Computer Science graduate passionate about software quality and testing.
 
 ---
 
-### Career Focus  
-- Manual Testing / QA Analyst role in IT companies  
-- Automation testing using Python & Selenium  
-- End-to-end software testing and defect management  
+### Career Focus
+
+-Junior SOC Analyst / SOC L1 opportunities
+-Networking & Security Operations
+-Security Monitoring & Threat Detection
+-Log Analysis & Incident Investigation
+-Cybersecurity roles in startups, MSSPs, and IT organizations
 
 ---
 
 ### Contact  
 - [GitHub](https://github.com/Gaganapbk2)
 - [LinkedIn](www.linkedin.com/in/gagana-bk-372579229) 
-- [Email](mailto:gaganabk97@gmail.com) 
+- [Email](mailto:gaganabkundar@gmail.com) 
 - [Portfolio](https://portfolio.gaganapbk2.com)
